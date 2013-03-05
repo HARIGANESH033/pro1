@@ -10,7 +10,7 @@
 *.so
 *.so.*
 *.dylib
-
+hello
 # Executables
 *.exe
 *.out
